@@ -13,4 +13,8 @@ Therefore, you must ensure that you runs this code with JDK 8.
 | NIA    | User name | Repo | Build Status | What was explored | Review for :gift: | Score
 |--------|-----------|------|--------------|-------------------|----------------------|--------
 |        |           |      |              |                   |                      |
-       
+|740388  | Diego Royo Meneses | [Test Branch](https://github.com/diegoroyo/lab2-big-ws/tree/test)    | [![Build Status](https://travis-ci.org/diegoroyo/lab2-big-ws.svg?branch=test)](https://travis-ci.org/diegoroyo/lab2-big-ws/tree/test)| Added tests for new languages (Spanish -> Polish, English -> Russian) |                      |
+|738866  | Javier G. Garcés | [Test Branch](https://github.com/JaviBite/lab2-big-ws/tree/test)    | [![Build Status](https://travis-ci.org/JaviBite/lab2-big-ws.svg?branch=test)](https://travis-ci.org/JaviBite/lab2-big-ws/tree/test)| Added tests for new languages (French -> Japanese, English -> Spanish) |                      |
+|741294  | Víctor Peñasco | [Test Branch](https://github.com/vpec/lab2-big-ws/tree/test)    | [![Build Status](https://travis-ci.org/vpec/lab2-big-ws.svg?branch=test)](https://travis-ci.org/vpec/lab2-big-ws/tree/test)| Added 1 en-es test and 1 en-fr test |                      |
+|735089  | Alejandro Gutierrez | [Test Branch](https://github.com/AlexGuti14/lab2-big-ws/tree/test)    | [![Build Status](https://travis-ci.org/AlexGuti14/lab2-big-ws.svg?branch=test)](https://travis-ci.org/AlexGuti14/lab2-big-ws/tree/test)| Added tests (English -> Catalán, English -> Gallego) |                      |       
+|737215  | Ruben Rodriguez Esteban | [Test Branch](https://github.com/ZgzInfinity/lab2-big-ws/tree/test)    | [![Build Status](https://travis-ci.org/ZgzInfinity/lab2-big-ws.svg?branch=test)](https://travis-ci.org/ZgzInfinity/lab2-big-ws/tree/test)| Added tests for new languages (Spanish -> Chinese, English -> Chinese) |                      |    
